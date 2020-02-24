@@ -324,7 +324,7 @@ p {
 .navStyle ul li a {
     display: block;
     font-size: 14px;
-    color: #235360;
+    color: #2d7386;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 400;
@@ -334,7 +334,7 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: rgb(51, 145, 145);
+    color: rgb(64, 187, 187);
 }
 
 .navStyle>li>a:hover,
