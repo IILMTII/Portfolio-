@@ -149,3 +149,9 @@ document.getElementById('').onclick = function() {
     section.className = 'wow lightSpeedIn';
     this.parentNode.insertBefore(section, this);
 };
+
+// warning
+
+function warning() {
+    alert("The following website stores your information to provide you results pertaining to your preferences. Do not enter sensitive personal information, data or upload pictures unless you are absolutely sure of it !");
+}
